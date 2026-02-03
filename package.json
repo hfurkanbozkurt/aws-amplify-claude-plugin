@@ -1,0 +1,12 @@
+{
+  "name": "aws-amplify-claude-plugin",
+  "version": "1.0.0",
+  "description": "Claude Code plugin for AWS Amplify Gen 2 development",
+  "keywords": ["claude-code", "plugin", "amplify", "aws", "fullstack"],
+  "author": "AWS",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hfurkanbozkurt/aws-amplify-claude-plugin"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "aws-amplify",
+  "description": "Build full-stack apps with AWS Amplify Gen 2 using guided workflows and SOPs",
+  "version": "1.0.0",
+  "author": {
+    "name": "AWS"
+  },
+  "repository": "https://github.com/hfurkanbozkurt/aws-amplify-claude-plugin"
+}
